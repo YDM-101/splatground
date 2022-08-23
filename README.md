@@ -55,5 +55,5 @@ The images in the sample_bg are not made by me, and rights go to the respective 
 I query the https://splatoon2.ink API for the rotation information.
 
 ## Author's notes
-I made this last month -- shortly after I got the game in June 2022. Originally it was intended to only be used by me, and to release a public version I had to streamline the installation and configuration process as much as possible, but there is still a lot to do in that aspect.
+I have been using this software for over a month. Originally it was intended to only be used by me, and to release a public version I had to streamline the installation and configuration process as much as possible, but there is still a lot to do in that aspect.
 
