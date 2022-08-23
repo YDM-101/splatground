@@ -1,13 +1,13 @@
 # splatground
 
-### Desktop background automation synced with Splatoon 2 API.
+### Desktop background automation synced with the Splatoon 2 API.
 
-Let your desktop background stay fresh! Configure your desktop to show the stages currently in rotation.
+Make your desktop background stay fresh! Configure your desktop to show the stages currently in rotation.
 
 This software will be updated when the Splatoon 3 API releases to work with that also.
 
 ## Installation
-This software is still in development, so there are quite a lot of rough edges especially during installation, where you will have to configure settings (requires knowledge of how path names work). Questions are welcomed in the wiki TODO or on my corresponding youtube video (link ???), especially if there is an error or if help is needed.
+This software is still in development, so there are quite a lot of rough edges especially during installation, where you will have to configure settings (requires knowledge of how path names work). Questions are welcomed here in github or on my corresponding youtube video (link ???), especially if there is an error or if help is needed.
 
 ### Requirements
 - Python 3.7+ (3.5, 3.6 may work too)
