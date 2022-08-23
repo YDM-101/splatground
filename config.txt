@@ -1,0 +1,4 @@
+/Users/YDM101/Documents/splatground/
+sample_bg/
+10
+turf war
